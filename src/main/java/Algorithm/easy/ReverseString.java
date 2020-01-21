@@ -1,4 +1,4 @@
-package Algorithm_Easy;
+package Algorithm.easy;
 
 class ReverseString {
     public String reverseWords(String s){
