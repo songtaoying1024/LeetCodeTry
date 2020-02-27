@@ -73,6 +73,7 @@ public class addTwoNumbers {
         l2.add(5);
         l2.add(6);
         l2.add(4);
+
         addTwoNumbers addTwoNumbers = new addTwoNumbers();
         LinkedList result = addTwoNumbers.addTwoNumbers(l1,l2);
         System.out.println(result);
