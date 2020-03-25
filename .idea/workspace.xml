@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c75b269-7abf-479f-97c8-6ca560e6b201" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/threeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/threeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +134,10 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="445" y="175" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.816@0.23.1440.816" timestamp="1582745508812" />
+    <state x="607" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585167739469">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="607" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.827@0.23.1440.827" timestamp="1585167739468" />
     <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1583915337020">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
@@ -187,12 +190,14 @@
     </state>
     <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1582833304483" />
     <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1582877269955" />
-    <state x="397" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1584129472387">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="397" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1585167857979">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="397" y="334" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1582832329860" />
     <state x="397" y="336" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1582743873323" />
     <state x="397" y="339" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1583870591245" />
+    <state x="397" y="340" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1585167857979" />
+    <state x="397" y="340" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1585167722620" />
     <state x="397" y="341" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1584129472387" />
     <state x="301" y="167" width="837" height="550" key="find.popup" timestamp="1582832599589">
       <screen x="0" y="23" width="1440" height="812" />
