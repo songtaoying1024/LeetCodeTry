@@ -1,4 +1,4 @@
-package Algorithm.easy;
+package Algorithm.medium.BinaryTree;
 
 import javax.swing.tree.TreeNode;
 import java.util.ArrayList;

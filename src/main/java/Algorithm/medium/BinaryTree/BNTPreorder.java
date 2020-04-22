@@ -1,4 +1,4 @@
-package Algorithm.medium;
+package Algorithm.medium.BinaryTree;
 
 /**
  * Return the root node of a binary search tree that matches the given preorder traversal.

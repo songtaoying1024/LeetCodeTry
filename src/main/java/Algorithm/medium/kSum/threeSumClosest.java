@@ -1,4 +1,4 @@
-package Algorithm.medium;
+package Algorithm.medium.kSum;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

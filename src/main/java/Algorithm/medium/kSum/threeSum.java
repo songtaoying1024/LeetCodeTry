@@ -1,4 +1,4 @@
-package Algorithm.medium;
+package Algorithm.medium.kSum;
 
 import java.util.Arrays;
 import java.util.LinkedList;

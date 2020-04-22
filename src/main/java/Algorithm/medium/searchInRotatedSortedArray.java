@@ -1,5 +1,7 @@
 package Algorithm.medium;
 
+import java.util.List;
+
 /**
  * Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
  *
@@ -21,22 +23,26 @@ package Algorithm.medium;
  * Output: -1
  */
 public class searchInRotatedSortedArray {
-    public int solution(int[] nums){
-        if (nums==null||nums.length==0) return -1;
-        int left = 0, right = nums.length-1;
-        while(left < right){
-            int midPoint = left + (right- left)/2;
-            if(nums[midPoint]>nums[right]){
+    public int solution(int[] nums,int target){
+        int left = 0, right =nums.length-1,result=-1;
+        while(left <= right){
+            int midPoint = left + (right-left)/2;
+            if(nums[midPoint] == target) {
+                result=midPoint;
+                right=midPoint-1;
+            }
+            else if(nums[midPoint] < target){
                 left = midPoint+1;
             }else{
-                right = midPoint;
+                right = midPoint -1;
             }
         }
-        return left;
+        return result;
+
     }
 
     public static void main(String[] args) {
-        int[] a = new int[]{4,5,6,7,8,9,0,1,2,3};
-        System.out.println(new searchInRotatedSortedArray().solution(a));
+        int[] a = new int[]{1,1,1,1,1,1,1,1};
+        System.out.println(new searchInRotatedSortedArray().solution(a,1));
     }
 }

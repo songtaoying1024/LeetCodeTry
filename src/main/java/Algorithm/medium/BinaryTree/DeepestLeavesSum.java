@@ -1,6 +1,4 @@
-package Algorithm.medium;
-
-import Algorithm.easy.DiameterOfBinaryTree;
+package Algorithm.medium.BinaryTree;
 
 import java.util.LinkedList;
 import java.util.Queue;
