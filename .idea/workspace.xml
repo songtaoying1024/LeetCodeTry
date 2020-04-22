@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c75b269-7abf-479f-97c8-6ca560e6b201" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/BNTPruning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/Subarray/subarraySumEqualsK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/easy/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/DiameterOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/easy/binaryTreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/binaryTreePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BNTPreorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/BNTPreorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DeepestLeavesSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/DeepestLeavesSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/fourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/kSum/fourSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParentheses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/searchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/searchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/threeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/kSum/threeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/threeSumClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/kSum/threeSumClosest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
