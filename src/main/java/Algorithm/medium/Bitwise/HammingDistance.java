@@ -1,0 +1,43 @@
+package Algorithm.medium.Bitwise;
+
+/**
+ * The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+ *
+ * Given two integers x and y, calculate the Hamming distance.
+ *
+ * Note:
+ * 0 ≤ x, y < 231.
+ *
+ * Example:
+ *
+ * Input: x = 1, y = 4
+ *
+ * Output: 2
+ *
+ * Explanation:
+ * 1   (0 0 0 1)
+ * 4   (0 1 0 0)
+ *        ↑   ↑
+ *
+ * The above arrows point to positions where the corresponding bits are different.
+ */
+public class HammingDistance {
+    public int hammingDistance(int x, int y) {
+        int count =0;
+        int z =(x^y);
+        while(z!=0){
+            count+=z&1;
+            z>>=1;
+        }
+        return count;
+    }
+
+    public static void main(String[] args) {
+             int a = 10;
+             int b =a << 1;
+             int c =a >> 1;
+        System.out.println(Integer.toBinaryString(a));
+        System.out.println(Integer.toBinaryString(b));
+        System.out.println(Integer.toBinaryString(c));
+    }
+}
