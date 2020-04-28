@@ -1,4 +1,4 @@
-package Algorithm.medium;
+package Algorithm.medium.DlinkedList;
 
 import java.util.*;
 

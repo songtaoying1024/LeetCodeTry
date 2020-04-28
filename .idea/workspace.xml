@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c75b269-7abf-479f-97c8-6ca560e6b201" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/BestTimeToBuyAndSell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/HashMap/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/HashSet/countingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/maximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/Stack/BackspaceStringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/Stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/countNumberOfTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/queue/FirstUniqueNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +50,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.longestPalindrome">
+  <component name="RunManager" selected="Application.FirstUniqueNumber">
     <configuration name="BSTTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.medium.BinaryTree.BSTTwoSum" />
       <module name="leetcodetest" />
@@ -65,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.LRUCache" />
+    <configuration name="FirstUniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.queue.FirstUniqueNumber" />
       <module name="leetcodetest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.medium.DP.*" />
+          <option name="PATTERN" value="Algorithm.medium.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstUniqueNumber" />
         <item itemvalue="Application.longestPalindrome" />
         <item itemvalue="Application.canJump" />
         <item itemvalue="Application.BSTTwoSum" />
         <item itemvalue="Application.convertBinaryNumber1290" />
-        <item itemvalue="Application.LRUCache" />
       </list>
     </recent_temporary>
   </component>
@@ -164,8 +165,8 @@
     <state x="607" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.827@0.23.1440.827" timestamp="1585167739468" />
     <state x="607" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.829@0.23.1440.829" timestamp="1587901048647" />
     <state x="607" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.830@0.23.1440.830" timestamp="1587149126669" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1587923118721">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1588094641081">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582877269954" />
@@ -175,13 +176,13 @@
     <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1587400489112" />
     <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587410250918" />
     <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587833577576" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587826444898" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587905123961" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1588094641081" />
+    <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1588093450655" />
     <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587923118721" />
     <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587626346597" />
     <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587500001314" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1587923118720">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1588094641081">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1582877269952" />
@@ -191,13 +192,13 @@
     <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1587400489111" />
     <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1587410250917" />
     <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1587833577574" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1587826444897" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587905123960" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1588094641081" />
+    <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1588093450654" />
     <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587923118720" />
     <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1587626346593" />
     <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587500001313" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1587923118720">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1588094641079">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1582833304481" />
     <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1582877269952" />
@@ -207,13 +208,13 @@
     <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1587400489110" />
     <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1587410250917" />
     <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1587833577573" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1587826444897" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587905123960" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1588094641079" />
+    <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1588093450653" />
     <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587923118720" />
     <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1587626346591" />
     <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587500001313" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1587923118721">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1588094641081">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1582877269953" />
@@ -223,13 +224,13 @@
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1587400489111" />
     <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1587410250918" />
     <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1587833577575" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1587826444898" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587905123961" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1588094641081" />
+    <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1588093450654" />
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587923118721" />
     <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1587626346596" />
     <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587500001314" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom" timestamp="1587833577579">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="338" key="GridCell.Tab.1.bottom" timestamp="1588093450656">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1582833304483" />
     <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582877269955" />
@@ -237,12 +238,12 @@
     <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587410251238" />
     <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587833577579" />
     <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587826289028" />
-    <state width="1398" height="340" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1586983946598" />
+    <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1588093450656" />
     <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587626932942" />
     <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587626346812" />
     <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587500001326" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center" timestamp="1587833577578">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="338" key="GridCell.Tab.1.center" timestamp="1588093450655">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1582833304483" />
     <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1582877269955" />
@@ -250,12 +251,12 @@
     <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1587410251236" />
     <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1587833577578" />
     <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1587826289027" />
-    <state width="1398" height="340" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1586983946597" />
+    <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1588093450655" />
     <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1587626932941" />
     <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1587626346811" />
     <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1587500001325" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left" timestamp="1587833577577">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="338" key="GridCell.Tab.1.left" timestamp="1588093450655">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1582877269954" />
@@ -263,12 +264,12 @@
     <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1587410251232" />
     <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1587833577577" />
     <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1587826289027" />
-    <state width="1398" height="340" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1586983946597" />
+    <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1588093450655" />
     <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1587626932940" />
     <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1587626346809" />
     <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1587500001324" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right" timestamp="1587833577578">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1398" height="338" key="GridCell.Tab.1.right" timestamp="1588093450656">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1582833304483" />
     <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1582877269955" />
@@ -276,16 +277,20 @@
     <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1587410251237" />
     <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1587833577578" />
     <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1587826289028" />
-    <state width="1398" height="340" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1586983946598" />
+    <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1588093450656" />
     <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1587626932941" />
     <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1587626346811" />
     <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1587500001325" />
+    <state x="319" y="74" key="SettingsEditor" timestamp="1588013589760">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="319" y="74" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1588013589760" />
     <state x="640" y="224" key="Vcs.Push.Dialog.v2" timestamp="1586945545803">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="640" y="224" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1586945545803" />
-    <state x="397" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1587977964374">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="397" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1588013655505">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="397" y="334" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1582832329860" />
     <state x="397" y="336" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1582743873323" />
@@ -294,7 +299,7 @@
     <state x="397" y="341" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1586420481047" />
     <state x="397" y="341" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1587977964374" />
     <state x="397" y="341" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1584129472387" />
-    <state x="397" y="342" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1587901043378" />
+    <state x="397" y="342" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1588013655505" />
     <state x="397" y="343" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1587624430764" />
     <state x="301" y="170" width="837" height="561" key="find.popup" timestamp="1587745389260">
       <screen x="0" y="23" width="1440" height="827" />
@@ -855,92 +860,92 @@
           <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>72</line>
           <option name="timeStamp" value="231" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>71</line>
           <option name="timeStamp" value="239" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>40</line>
           <option name="timeStamp" value="243" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>41</line>
           <option name="timeStamp" value="244" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>42</line>
           <option name="timeStamp" value="245" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>43</line>
           <option name="timeStamp" value="247" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>45</line>
           <option name="timeStamp" value="248" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>46</line>
           <option name="timeStamp" value="249" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>44</line>
           <option name="timeStamp" value="251" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>47</line>
           <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>49</line>
           <option name="timeStamp" value="254" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>50</line>
           <option name="timeStamp" value="255" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>51</line>
           <option name="timeStamp" value="256" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>28</line>
           <option name="timeStamp" value="257" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>29</line>
           <option name="timeStamp" value="259" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>30</line>
           <option name="timeStamp" value="260" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>31</line>
           <option name="timeStamp" value="261" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/LRUCache.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>33</line>
           <option name="timeStamp" value="262" />
         </line-breakpoint>
