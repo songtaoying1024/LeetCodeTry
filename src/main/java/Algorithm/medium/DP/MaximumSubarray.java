@@ -22,7 +22,7 @@ public class MaximumSubarray {
         int max1=nums[0], max2= nums[0];
         for(int i=1;i<n;i++){
             max2 = Math.max(max2+nums[i],nums[i]);
-            max2 = Math.max(max1,max2);
+            max1 = Math.max(max1,max2);
         }
         return max1;
     }

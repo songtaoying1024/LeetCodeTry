@@ -1,9 +1,6 @@
 package Algorithm.medium.queue;
 
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Map;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * You have a queue of integers, you need to retrieve the first unique integer in the queue.
@@ -89,8 +86,12 @@ public class FirstUniqueNumber {
     }
 
     public static void main(String[] args) {
+
         int[] arr = new int[]{2,2,3,3,4,5,6};
         FirstUniqueNumber f1 = new FirstUniqueNumber(arr);
         System.out.println(f1.showFirstUnique());
+        ArrayList<String> list = new ArrayList<>();
+        String[] aa =list.toArray(new String[0]);
+
     }
 }
