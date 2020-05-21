@@ -29,4 +29,15 @@ public class productOfArrayExceptSelf {
         }
         return res;
     }
+
+    public static void main(String[] args) {
+        int[] arr = new int[]{1, 2, 3};
+        int[] arr1 = new int[]{1, 2, 3, 3};
+        if (arr.equals(arr1)) {
+            System.out.println("this is true");
+        } else {
+            ;
+            System.out.println("this is not true");
+        }
+    }
 }

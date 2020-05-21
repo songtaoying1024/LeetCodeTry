@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c75b269-7abf-479f-97c8-6ca560e6b201" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/BInaryTreeMaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/LongestUnivaluePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/circularSubarrayMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/HashMap/uncommonWordsfromTwoAentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/easy/FloodFille.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/easy/array/findAllNumbersDisappearedInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/easy/array/mountainClimbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/heightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/CousinsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/CountSquareSubmatricesWithAllOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/MaximumSumCircularSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/addTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeKSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/splitLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/SortIntegersByThePowerValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/DiameterOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/DiameterOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/queue/FirstUniqueNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/queue/FirstUniqueNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/Recursive/NumberOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/addTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/medium/productOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/medium/productOfArrayExceptSelf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +59,38 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/target/classes/Algorithm/medium/DlinkedList/addTwoNumbers.class" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
-  <component name="RunManager" selected="Application.FirstUniqueNumber">
-    <configuration name="BSTTwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.BinaryTree.BSTTwoSum" />
+  <component name="RunManager" selected="Application.SortList">
+    <configuration name="FindAllAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.easy.String.FindAllAnagrams" />
+      <module name="leetcodetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.easy.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.BinaryTree.PrintBinaryTree" />
       <module name="leetcodetest" />
       <extension name="coverage">
         <pattern>
@@ -67,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.queue.FirstUniqueNumber" />
+    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.DlinkedList.SortList" />
       <module name="leetcodetest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.medium.queue.*" />
+          <option name="PATTERN" value="Algorithm.medium.DlinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="canJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.DP.canJump" />
+    <configuration name="mergeTwoSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.DlinkedList.mergeTwoSortedList" />
       <module name="leetcodetest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.medium.DP.*" />
+          <option name="PATTERN" value="Algorithm.medium.DlinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="convertBinaryNumber1290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.easy.convertBinaryNumber1290" />
+    <configuration name="productOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.medium.productOfArrayExceptSelf" />
       <module name="leetcodetest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.easy.*" />
+          <option name="PATTERN" value="Algorithm.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +141,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.easy.longestPalindrome" />
-      <module name="leetcodetest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.productOfArrayExceptSelf" />
+      <item itemvalue="Application.FindAllAnagrams" />
+      <item itemvalue="Application.mergeTwoSortedList" />
+      <item itemvalue="Application.SortList" />
+      <item itemvalue="Application.PrintBinaryTree" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstUniqueNumber" />
-        <item itemvalue="Application.longestPalindrome" />
-        <item itemvalue="Application.canJump" />
-        <item itemvalue="Application.BSTTwoSum" />
-        <item itemvalue="Application.convertBinaryNumber1290" />
+        <item itemvalue="Application.SortList" />
+        <item itemvalue="Application.PrintBinaryTree" />
+        <item itemvalue="Application.mergeTwoSortedList" />
+        <item itemvalue="Application.FindAllAnagrams" />
+        <item itemvalue="Application.productOfArrayExceptSelf" />
       </list>
     </recent_temporary>
   </component>
@@ -139,22 +168,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579114830952</updated>
+      <workItem from="1589187781403" duration="72000" />
+      <workItem from="1589187887916" duration="94000" />
+      <workItem from="1589188025695" duration="5729000" />
+      <workItem from="1589313472529" duration="539000" />
+      <workItem from="1589314017118" duration="744000" />
+      <workItem from="1589361984768" duration="3835000" />
+      <workItem from="1589469366272" duration="33000" />
+      <workItem from="1589531137727" duration="1910000" />
+      <workItem from="1589707212681" duration="1630000" />
+      <workItem from="1589794092068" duration="22000" />
+      <workItem from="1589794155235" duration="1342000" />
+      <workItem from="1589830638987" duration="9314000" />
+      <workItem from="1589894808036" duration="2732000" />
+      <workItem from="1589971213649" duration="2416000" />
+      <workItem from="1590048875175" duration="2055000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="102" key="#Project_Structure" timestamp="1587978004753">
+    <state x="362" y="41" key="#Plugins" timestamp="1589795472541">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="362" y="41" key="#Plugins/0.23.1440.829@0.23.1440.829" timestamp="1589795472541" />
+    <state x="362" y="41" key="#Plugins/0.23.1440.831@0.23.1440.831" timestamp="1589188047936" />
+    <state x="416" y="23" width="1024" height="827" key="#Project_Structure" timestamp="1588887057443">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="466" y="102" key="#Project_Structure/0.23.1440.827@0.23.1440.827" timestamp="1587978004753" />
-    <state x="0" y="295" key="#com.intellij.ide.util.MemberChooser" timestamp="1588178126073">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="416" y="23" width="1024" height="827" key="#Project_Structure/0.23.1440.827@0.23.1440.827" timestamp="1588887057443" />
+    <state x="161" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589313794126">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="161" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1589313794126" />
+    <state x="0" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1589971933996">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="0" y="294" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1587410034473" />
-    <state x="0" y="295" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1588178126073" />
+    <state x="0" y="295" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1589886698623" />
+    <state x="0" y="235" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1589794590070" />
+    <state x="0" y="235" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1589971933996" />
     <state x="445" y="175" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1582745508812">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -167,9 +225,10 @@
     <state x="607" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.827@0.23.1440.827" timestamp="1585167739468" />
     <state x="607" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.829@0.23.1440.829" timestamp="1587901048647" />
     <state x="607" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.830@0.23.1440.830" timestamp="1587149126669" />
-    <state width="1398" height="338" key="GridCell.Tab.0.bottom" timestamp="1588097334449">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="1398" height="308" key="GridCell.Tab.0.bottom" timestamp="1590054218964">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589708158505" />
     <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582877269954" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582748644078" />
@@ -177,15 +236,16 @@
     <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1583915337020" />
     <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1587400489112" />
     <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587410250918" />
-    <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587833577576" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1588094641081" />
-    <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1588093450655" />
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587923118721" />
-    <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587626346597" />
-    <state width="1398" height="338" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1588097334449" />
-    <state width="1398" height="338" key="GridCell.Tab.0.center" timestamp="1588097334447">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="975" height="169" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1589708087176" />
+    <state width="1398" height="308" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1590054218964" />
+    <state width="1398" height="309" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1589902422144" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1589974503975" />
+    <state width="1304" height="188" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1589191933937" />
+    <state width="975" height="305" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1589720513124" />
+    <state width="1398" height="308" key="GridCell.Tab.0.center" timestamp="1590054218960">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589708158501" />
     <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1582877269952" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1582748644078" />
@@ -193,15 +253,16 @@
     <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1583915337019" />
     <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1587400489111" />
     <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1587410250917" />
-    <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1587833577574" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1588094641081" />
-    <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1588093450654" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587923118720" />
-    <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1587626346593" />
-    <state width="1398" height="338" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1588097334447" />
-    <state width="1398" height="338" key="GridCell.Tab.0.left" timestamp="1588097334447">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="975" height="169" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1589708087175" />
+    <state width="1398" height="308" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1590054218960" />
+    <state width="1398" height="309" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1589902422143" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1589974503965" />
+    <state width="1304" height="188" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1589191933936" />
+    <state width="975" height="305" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1589720513123" />
+    <state width="1398" height="308" key="GridCell.Tab.0.left" timestamp="1590054218959">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589708158500" />
     <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1582833304481" />
     <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1582877269952" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1582748644077" />
@@ -209,15 +270,16 @@
     <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1583915337019" />
     <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1587400489110" />
     <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1587410250917" />
-    <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1587833577573" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1588094641079" />
-    <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1588093450653" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587923118720" />
-    <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1587626346591" />
-    <state width="1398" height="338" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1588097334447" />
-    <state width="1398" height="338" key="GridCell.Tab.0.right" timestamp="1588097334448">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="975" height="169" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1589708087174" />
+    <state width="1398" height="308" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1590054218959" />
+    <state width="1398" height="309" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1589902422143" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1589974503956" />
+    <state width="1304" height="188" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1589191933936" />
+    <state width="975" height="305" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1589720513121" />
+    <state width="1398" height="308" key="GridCell.Tab.0.right" timestamp="1590054218960">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589708158503" />
     <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1582877269953" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1582748644078" />
@@ -225,72 +287,83 @@
     <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1583915337020" />
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1587400489111" />
     <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1587410250918" />
-    <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1587833577575" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1588094641081" />
-    <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1588093450654" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587923118721" />
-    <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1587626346596" />
-    <state width="1398" height="338" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1588097334448" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom" timestamp="1588097334450">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="975" height="169" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1589708087175" />
+    <state width="1398" height="308" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1590054218960" />
+    <state width="1398" height="309" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1589902422144" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1589974503974" />
+    <state width="1304" height="188" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1589191933937" />
+    <state width="975" height="305" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1589720513124" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom" timestamp="1589974503978">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589708158839" />
     <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1582833304483" />
     <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582877269955" />
     <state width="1188" height="228" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586335983060" />
     <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587410251238" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587833577579" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587826289028" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1588093450656" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587626932942" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587626346812" />
-    <state width="1398" height="338" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1588097334450" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center" timestamp="1588097334449">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="975" height="169" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1589708087486" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1589913486794" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1589902401519" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1589974503978" />
+    <state width="1304" height="188" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1589191934648" />
+    <state width="975" height="305" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1589720513125" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center" timestamp="1589974503977">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589708158838" />
     <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1582833304483" />
     <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1582877269955" />
     <state width="1188" height="228" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1586335983059" />
     <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1587410251236" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1587833577578" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1587826289027" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1588093450655" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1587626932941" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1587626346811" />
-    <state width="1398" height="338" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1588097334449" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left" timestamp="1588097334449">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="975" height="169" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1589708087486" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1589913486794" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1589902401519" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1589974503977" />
+    <state width="1304" height="188" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1589191934647" />
+    <state width="975" height="305" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1589720513125" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left" timestamp="1589974503976">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589708158837" />
     <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1582833304482" />
     <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1582877269954" />
     <state width="1188" height="228" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1586335983050" />
     <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1587410251232" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1587833577577" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1587826289027" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1588093450655" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1587626932940" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1587626346809" />
-    <state width="1398" height="338" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1588097334449" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right" timestamp="1588097334450">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state width="975" height="169" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1589708087485" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1589913486794" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1589902401518" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1589974503976" />
+    <state width="1304" height="188" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1589191934647" />
+    <state width="975" height="305" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1589720513124" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right" timestamp="1589974503978">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
+    <state width="1398" height="305" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589708158839" />
     <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1582833304483" />
     <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1582877269955" />
     <state width="1188" height="228" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1586335983060" />
     <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1587410251237" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1587833577578" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1587826289028" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1588093450656" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1587626932941" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1587626346811" />
-    <state width="1398" height="338" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1588097334450" />
-    <state x="319" y="74" key="SettingsEditor" timestamp="1588013589760">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state width="975" height="169" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1589708087486" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1589913486794" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1589902401519" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1589974503978" />
+    <state width="1304" height="188" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1589191934648" />
+    <state width="975" height="305" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1589720513125" />
+    <state x="319" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1589313820472">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
+    <state x="319" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1589313820472" />
+    <state x="319" y="23" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1589196502642" />
     <state x="319" y="74" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1588013589760" />
+    <state x="319" y="23" width="1024" height="831" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1589188130071" />
     <state x="640" y="224" key="Vcs.Push.Dialog.v2" timestamp="1586945545803">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="640" y="224" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1586945545803" />
+    <state x="328" y="228" width="817" height="394" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589707623320">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="328" y="228" width="817" height="394" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.827@0.23.1440.827" timestamp="1589707623320" />
     <state x="397" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1588013655505">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
@@ -308,10 +381,11 @@
     </state>
     <state x="301" y="167" width="837" height="550" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1582832599589" />
     <state x="301" y="170" width="837" height="561" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1587745389260" />
-    <state x="545" y="163" key="search.everywhere.popup" timestamp="1582745505973">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="545" y="165" key="search.everywhere.popup" timestamp="1589973327628">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="545" y="163" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1582745505973" />
+    <state x="545" y="165" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1589973327628" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -348,42 +422,42 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>16</line>
+          <line>15</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>17</line>
+          <line>16</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>19</line>
+          <line>18</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>18</line>
+          <line>17</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>23</line>
+          <line>22</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>22</line>
+          <line>21</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>24</line>
+          <line>23</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/generateParenthesis.java</url>
-          <line>25</line>
+          <line>24</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -863,16 +937,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="231" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="239" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
           <line>40</line>
           <option name="timeStamp" value="243" />
         </line-breakpoint>
@@ -956,11 +1020,932 @@
           <line>6</line>
           <option name="timeStamp" value="263" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/array/duplicateZeros.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/MyLinkedList.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/majorityElement.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/heightChecker.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/heightChecker.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/FloodFille.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/mergeTwoSortedList.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/circularSubarrayMaximum.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/circularSubarrayMaximum.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/circularSubarrayMaximum.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DP/circularSubarrayMaximum.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/searchInRotatedSortedArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/searchInRotatedSortedArray.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/searchInRotatedSortedArray.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/searchInRotatedSortedArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/LRUCache.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/addTwoNumbers.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/removeKdigits.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/String/FindAllAnagrams.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="520" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/SortList.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="522" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/PrintBinaryTree.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/BinaryTree/BNTPreorder.java</url>
           <line>25</line>
           <properties field="i" class="Algorithm.medium.BinaryTree.BNTPreorder" />
           <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/medium/DlinkedList/removeNthFromEnd.java</url>
+          <line>7</line>
+          <properties class="Algorithm.medium.DlinkedList.removeNthFromEnd.ListNode" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/easy/FloodFille.java</url>
+          <line>7</line>
+          <properties class="Algorithm.easy.FloodFille" method="floodFill">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="377" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

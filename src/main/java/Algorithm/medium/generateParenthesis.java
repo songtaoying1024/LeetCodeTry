@@ -1,7 +1,6 @@
 package Algorithm.medium;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class generateParenthesis {
     public List<String> generateParenthesis(int n){
@@ -29,6 +28,8 @@ public class generateParenthesis {
     public static void main(String[] args) {
         generateParenthesis a = new generateParenthesis();
         System.out.println(a.generateParenthesis(3));
-
+        Set<Integer> set  = new HashSet<>();
+        Iterator value = set.iterator();
+        int haha = (int) value.next();
     }
 }
